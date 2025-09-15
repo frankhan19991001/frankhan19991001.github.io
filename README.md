@@ -1,6 +1,8 @@
 My name is Frank Han. This repo is a clone of
 https://github.com/varadbhogayata/varadbhogayata.github.io
 
+![alt text](image.png)
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
