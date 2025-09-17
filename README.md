@@ -1,12 +1,17 @@
+Activity1: 
 My name is Frank Han. This repo is a clone of
 https://github.com/varadbhogayata/varadbhogayata.github.io
 
 ![alt text](image.png)
 
+Activity2:
+![alt text](image-1.png)
+
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://varadbhogayata.github.io
+> https://frankhan19991001.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
@@ -15,13 +20,13 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/varadbhogayata/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-### Website Preview
+<!-- ### Website Preview
 <p align="center"> 
   <kbd>
     <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
   </a>
   </kbd>
-</p>
+</p> -->
 
 :star: Star me on GitHub — it helps!
 
