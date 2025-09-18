@@ -237,7 +237,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(16, 202, 56);
+  color: rgb(165, 217, 176);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -602,7 +602,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: #7358e8;
     height: 56px;
     line-height: 56px;
   }
