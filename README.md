@@ -6,7 +6,7 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 
 Activity2:
 ![alt text](image-1.png)
-
+![alt text](image-2.png)
 
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
