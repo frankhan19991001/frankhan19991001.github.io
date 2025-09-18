@@ -1,10 +1,10 @@
-Activity1: 
+# Activity1: 
 My name is Frank Han. This repo is a clone of
 https://github.com/varadbhogayata/varadbhogayata.github.io
 
 ![alt text](image.png)
 
-Activity2:
+# Activity2:
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 
