@@ -9,7 +9,7 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ![alt text](image-2.png)
 
 # Activity3:
-![alt text](image-1.png)
+![alt text](image-8.png)
 ![alt text](image-6.png)
 
 # Activity4:
