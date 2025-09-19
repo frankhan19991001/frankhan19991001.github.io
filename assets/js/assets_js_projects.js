@@ -52,7 +52,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const projectsContainer = document.getElementById('dynamic-projects-container');
     const loadMoreBtn = document.getElementById('load-more-btn');
-    let projectsToShow = 1;
     let projectsLoaded = 0;
 
     function createProjectCard(project) {
@@ -83,8 +82,8 @@ document.addEventListener('DOMContentLoaded', function () {
         `;
     }
 
-    function loadProjects() {
-        const projectsToLoad = projects.slice(projectsLoaded, projectsLoaded + projectsToShow);
+    function loadProjects(count) {
+        const projectsToLoad = projects.slice(projectsLoaded, projectsLoaded + count);
 
         projectsToLoad.forEach(project => {
             projectsContainer.innerHTML += createProjectCard(project);
@@ -92,18 +91,19 @@ document.addEventListener('DOMContentLoaded', function () {
 
         projectsLoaded += projectsToLoad.length;
 
+        // Re-initialize tooltips for any new elements
         $('.tooltipped').tooltip({ delay: 50 });
-
 
         if (projectsLoaded >= projects.length) {
             loadMoreBtn.style.display = 'none';
         }
     }
 
-    loadProjects();
+    // Initial load of the top 3 projects
+    loadProjects(3);
 
+    // Set up "Load More" button to load one project at a time
     loadMoreBtn.addEventListener('click', () => {
-        projectsToShow = 1; 
-        loadProjects();
+        loadProjects(1);
     });
 });
